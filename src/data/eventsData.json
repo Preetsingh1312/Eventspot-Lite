@@ -1,0 +1,122 @@
+[
+  {
+     "id": 1,
+     "name": "Diljit Concert",
+     "date": "2024-12-20",
+     "location": "Chandigarh",
+     "description": "A night of live music in Chandigarh City Beautiful.",
+     "image": "https://www.digitalstudioindia.com/cloud/2024/08/23/Diljit-Dosanjh-to-perform-Electrifying-Dil-Luminati-Tour-at-Etihad-Park_Image-1.jpg"
+  },
+  {
+     "id": 2,
+     "name": "Art Exhibition",
+     "date": "2024-11-05",
+     "location": "Chandigarh",
+     "description": "Explore modern art pieces from global artists.",
+     "image": "https://chdmuseum.gov.in/images/national-gallery-of-portraits.JPG"
+  },
+  {
+   "id": 3,
+   "name": "Bassi Stand Up",
+   "date": "2024-11-30",
+   "location": "Mohali",
+   "description": "A night of laugh in Tricity.",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvx96KeZEzpY8WWagH6QOTCYBAk2hNvn2kBg&s"
+},
+{
+   "id": 4,
+   "name": "Haunted Maze",
+   "date": "2024-12-13",
+   "location": "Elante Mall, Chandigarh",
+   "description": "The Catacombs of Fear experience transforms the existing mirror maze into a spine-chilling adventure for Halloween.",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTynVS7KAmrRjNcBx6hvk3DwvjB4glahpWUt1nWOXbG9PbcrTvQ5Ab27yTdgff0YpxA0ec&usqp=CAU"
+},
+{
+   "id": 5,
+   "name": "The 8 PM Open Mic",
+   "date": "2024-12-24",
+   "location": "Panchkula",
+   "description": "A night of opportunity in Panchkula.",
+   "image": "https://img.freepik.com/premium-vector/stand-up-comedy-open-mic_1056-1853.jpg"
+},
+{
+   "id": 6,
+   "name": "Bangr Carnival",
+   "date": "2024-11-10",
+   "location": "Exhibition Ground-Chandigarh",
+   "description": "BANGR CARNIVAL - EXPERIENCE. MUSIC. LIFESTYLE ⚠.",
+   "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-bangr-carnival-0-2024-10-12-t-15-10-40.jpg"
+},
+{
+   "id": 7,
+   "name": "Karan Aujla - It Was All A Dream",
+   "date": "2024-12-08",
+   "location": "Chandigarh",
+   "description": "Experience the magic of Karan Aujla live on his It Was All A Dream World Tour! ",
+   "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-karan-aujla-it-was-all-a-dream-0-2024-9-19-t-11-9-17.jpg"
+},
+{
+   "id": 8,
+   "name": "Chandigarh Comedy Festival 2024",
+   "date": "2024-12-01",
+   "location": "Chandigarh",
+   "description": "Chandigarh Comedy Festival is back! Biggest celebration of comedy live in your city with a stellar lineup of over 50 comedians! ",
+   "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-chandigarh-comedy-festival-2024-0-2024-10-27-t-5-9-10.jpg"
+},
+{
+   "id": 9,
+   "name": "Grown Up! Standup Comedy Show by Jaspreet Singh",
+   "date": "2024-12-20",
+   "location": "Zirakpur",
+   "description": "Jaspreet Singh takes the stage to talk about his wildest job yet - being a father!",
+   "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-grown-up-standup-comedy-show-by-jaspreet-singh-0-2024-8-24-t-19-5-9.jpg"
+},
+{
+   "id": 10,
+   "name": "Red Flags Ft. Vishal Tyagi",
+   "date": "2024-12-05",
+   "location": "Mohali",
+   "description": "In this stand up show where jokes are done to highlight what all went wrong with language & the meanings we derive from it.",
+   "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-vishal-tyagi-live-0-2024-10-9-t-12-10-16.jpg"
+},
+{
+   "id": 11,
+   "name": "PAPON LIVE IN CONCERT",
+   "date": "2024-11-09",
+   "location": "Elante Mall, Chandigarh",
+   "description": "Papon, the versatile and soulful singer-songwriter from Assam, is a celebrated artist in the Indian music industry.",
+   "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-papon-live-in-concert-0-2024-10-8-t-5-53-46.jpg"
+},
+{
+   "id": 12,
+   "name": "Piyush Mishra - UdanKhatola Tour",
+   "date": "2024-12-30",
+   "location": "Chandigarh",
+   "description": "‘Ballimaaraan’ is a musical band led by actor, singer & lyricist Piyush Mishra, their music is soul-touching and profound with a mixed niche style of retro and modern music.",
+   "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-piyush-mishra-udankhatola-tour-chandigarh-0-2024-9-19-t-12-46-20.jpg"
+},
+{
+   "id": 13,
+   "name": "Prateek Kuhad Silhouettes Tour",
+   "date": "2024-12-24",
+   "location": "Mohali",
+   "description": "Akin to painting on a blank canvas, singer, songwriter, and producer Prateek Kuhad brings his music to life in both broad and delicate strokes.",
+   "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-prateek-kuhad-silhouettes-tour-gurgaon-0-2024-6-20-t-6-26-15.jpg"
+},
+{
+   "id": 14,
+   "name": "Lollapalooza India 2024",
+   "date": "2024-12-09",
+   "location": "Chandigarh",
+   "description": "Tricity, are you ready? Lollapalooza India is all geared up for its third edition in the city of dreams!",
+   "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-lollapalooza-india-2025-0-2024-10-24-t-10-42-15.jpg"
+},
+{
+   "id": 15,
+   "name": "Shillong Cherry Blossom Festival 2024",
+   "date": "2024-12-19",
+   "location": "Ambala",
+   "description": "Join us for the much-anticipated Cherry Blossom Festival, a dazzling celebration that has rapidly blossomed",
+   "image": "https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-shillong-cherry-blossom-festival-2024-0-2024-10-2-t-13-18-14.jpg"
+}
+]
